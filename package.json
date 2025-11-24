@@ -29,11 +29,12 @@
     "helmet": "^8.0.0",
     "http-errors": "^2.0.0",
     "jsonwebtoken": "^9.0.0",
+    "morgan": "^1.10.0",
+    "mssql": "^12.1.0",
     "nodemailer": "^7.0.0",
     "redis": "^4.6.7",
     "sequelize": "^6.32.1",
-    "swagger-ui-express": "^5.0.0",
-    "morgan": "^1.10.0"
+    "swagger-ui-express": "^5.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.23.0",
